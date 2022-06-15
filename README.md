@@ -1,7 +1,7 @@
 # PSModuleCreater
-Module for quick cmdlet creation
+Module for quick cmdlet creation (I recommend install VSCode https://code.visualstudio.com/)
 How to:
-1. Create PSM1 file into path "C:\Program Files\WindowsPowerShell\Modules\PSModuleCreater\PSModuleCreater.psm1" and import code.
+1. Create PSM1 file into path "C:\Program Files\WindowsPowerShell\Modules\PSModuleCreater\PSModuleCreater.psm1" or another PS profile dir and import code.
 2. Restart powreshell, then do: 
 New-PSModule
 
@@ -13,3 +13,5 @@ New-PSModule
 
 4. profit
 
+
+P.S. If VScode didn't open, set environment variables for Visual Studio Code
